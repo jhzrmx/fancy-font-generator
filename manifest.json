@@ -1,0 +1,17 @@
+{
+    "name": "Fancy Font Generator",
+    "short_name": "Fancy Fonts",
+    "description": "Generate fancy and stylish fonts offline. Copy and paste fancy text easily.",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#111111",
+    "theme_color": "#111111",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "favicon.png",
+            "sizes": "128x128",
+            "type": "image/png"
+        }
+    ]
+}
