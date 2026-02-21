@@ -4,8 +4,8 @@
     "description": "Generate fancy and stylish fonts offline. Copy and paste fancy text easily.",
     "start_url": "./index.html",
     "display": "standalone",
-    "background_color": "#111111",
-    "theme_color": "#111111",
+    "background_color": "#f8fafc",
+    "theme_color": "#f8fafc",
     "orientation": "portrait",
     "icons": [
         {
