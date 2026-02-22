@@ -22,6 +22,9 @@ body.light {
 .container {
   max-width: 600px;
   margin: auto;
+  height: calc(100vh - 60px);
+  display: flex;
+  flex-direction: column;
 }
 
 header {
@@ -40,8 +43,24 @@ input {
   border: none;
 }
 
+.sticky {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: inherit;
+  padding-bottom: 10px;
+}
+
+#themeToggle {
+  display: none;
+}
+
 #fontList {
   margin-top: 15px;
+  overflow-y: auto;
+  flex: 1;
+  padding-right: 4px;
+  scrollbar-width: thin;
 }
 
 .font-card {
