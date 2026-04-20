@@ -320,5 +320,23 @@
         "fontUpper": "ልጌርዕቿቻኗዘጎጋጕረጠክዐየዒዪነፕሁሀሠሸሃጊ",
         "fontDigits:": "",
         "experimentalFont": true
+    },
+    {
+        "fontName": "Mirror",
+        "fontLower": "ɒdɔbɘʇǫʜiįʞlɯnoqpɿƨɈυvwxyz",
+        "fontUpper": "AᗺƆᗡƎℲ⅁HIႱꓘ⅃WNOԀტЯƧ⊥UVWXYZ",
+        "fontDigits": "0ↁↂƐ߈59ㄥ86"
+    },
+    {
+        "fontName": "NegativeSquared",
+        "fontLower": "🅰🅱🅲🅳🅴🅵🅶🅷🅸🅹🅺🅻🅼🅽🅾🅿🆀🆁🆂🆃🆄🆅🆆🆇🆈🆉",
+        "fontUpper": "🅰🅱🅲🅳🅴🅵🅶🅷🅸🅹🅺🅻🅼🅽🅾🅿🆀🆁🆂🆃🆄🆅🆆🆇🆈🆉",
+        "fontDigits": ""
+    },
+    {
+        "fontName": "Greek",
+        "fontLower": "αβςδεφγηιϳκλμνοπθρστυϖωχψζ",
+        "fontUpper": "ΑΒϹΔΕΦΓΗΙЈΚΛΜΝΟΠΘΡΣΤΥϖΩΧΨΖ",
+        "fontDigits": ""
     }
 ]
