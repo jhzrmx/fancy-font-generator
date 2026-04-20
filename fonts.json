@@ -354,11 +354,5 @@
         "fontDigits": [
             "-----",".----","..---","...--","....-",".....","-....","--...","---..","----."
         ]
-    },
-    {
-        "fontName": "CipherCaesar3",
-        "fontLower": "defghijklmnopqrstuvwxyzabc",
-        "fontUpper": "DEFGHIJKLMNOPQRSTUVWXYZABC",
-        "fontDigits": "0123456789"
     }
 ]
